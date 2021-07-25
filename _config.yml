@@ -1,0 +1,16 @@
+title: 簡単にホームページを作成する方法
+author: GitHub User
+email: saitomako@gmail.com
+description: > # this means to ignore newlines untile "twitter_username:"
+  このサイトでは、ホームページ作成サービス「クローバPAGE」を使って、
+  専門知識がなくても簡単にホームページを作成する方法を解説しております。
+
+show_excerpts: true # set to true to show excerpts on the homepage
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
