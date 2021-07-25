@@ -51,17 +51,31 @@ layout: home
 ### 失敗しないマインドセット
 
 ## ホームページ作成サービス「クローバPAGE」を使ってみる
+![](images/01-qloba.png)
+
 ### STEP1 会員登録
+![](images/02-registration.png)
+
+### ページを作成していく
+![](images/03-create-page.png)
 
 ### STEP2 テンプレートを選ぶ
+![](images/04-select-template.png)
+
+![](images/05-select-template.png)
 
 ### STEP3 カバー画像の設定
+![](images/06-cover-image.png)
+![](images/07-cover-image.png)
 
 ### STEP4 トップページはパーツをドラッグ＆ドロップで貼り付けていくだけ
+![](images/08-adding-parts.png)
 
 ### STEP5 問い合わせフォームの設定
+![](images/09-form-setting.png)
 
 ### STEP6 公開
+![](images/10-publish-setting.png)
 
 ## 次のステップは？
 
