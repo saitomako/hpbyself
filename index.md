@@ -56,9 +56,10 @@ layout: home
 </section>
 
 ### それでは、「クローバPAGE」を使ってホームページを作成していきましょう。
+※ 各STEPタイトルをクリックすると、その詳細を見ることができます。
 
 <dl>
-<div class="appear">
+<div>
 <dt>STEP1 会員登録</dt>
 <dd>
 まずは、会員登録からです。
