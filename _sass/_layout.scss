@@ -269,6 +269,7 @@ dt {
   cursor: pointer;
   user-select: none;
   position: relative;
+  border-bottom: 1px solid #ccc;
 }
 
 dt::after {
