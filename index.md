@@ -7,29 +7,27 @@ layout: home
 あなたがもし、自分のお店のホームページを作るとしたらどうしますか？
 
 まず最初に思いつくのが、ホームページ制作会社に頼んで作ってもらうことだと思います。  
-でも、
+でもその場合
 
-- その場合、どうやってホームページ制作会社を探せばいいのでしょう？ 
-- そこが、信頼できる制作会社だと、どうやって判断すればいいのでしょう？
-- こちらが何にも知らないのをいいことに、騙されやしないでしょうか？
-- また、費用はどのくらいかかるのでしょう？
+<ul class="check-mark">
+<li>どうやってホームページ制作会社を探せばいいのでしょう？</li>
+<li>そこが、信頼できる制作会社だと、どうやって判断すればいいのでしょう？</li>
+<li>こちらが何にも知らないのをいいことに、騙されやしないでしょうか？</li>
+<li>また、費用はどのくらいかかるのでしょう？</li>
+</ul>
 
 心配のたねは尽きませんね。
 
-そこで、そんなあなたにひとつ提案があります。
+いっそのこと、こういうのはどうでしょう？
 
->  ホームページを自分で作る
+<span class="big">&gt; ホームページを自分で作ってしまう<span>
 
-という選択肢を考えてみてはいかがでしょうか？
-
->  そんなこととんでもない！
-
-と仰っしゃるかもしれません。
+**そんなこととんでもない！** と仰っしゃるかもしれません。
 
 
-でも、
+でも実は、
 
-**ホームページを自分で作成することは、実はそんなに難しくない** んです。
+## ホームページを自分で作成することは、実はそんなに難しくないんです
 
 確かにかつては、サーバーを借りたり、ドメインを取ったり、ホームページ作成用のソフトを購入したり、やることがたくさんあってけっこう大変でした。
 
@@ -37,7 +35,7 @@ layout: home
 
 そうです！
 
-**❝ホームページ作成サービスを使えば、３０分でてきてしまいます❞**
+<span class="big">ホームページ作成サービスを使えば、たった３０分でできてしまいます！<span>
 
 このページでは、専門知識のない方でも、比較的簡単にホームページを作成できる方法を、
 お伝えしていきたいと思います。
@@ -50,32 +48,67 @@ layout: home
 
 ### 失敗しないマインドセット
 
-## ホームページ作成サービス「クローバPAGE」を使ってみる
-![](images/01-qloba.png)
+<section id="lets-try">
+<div class="wrapper">
+<img src="images/01-qloba.png">
+<h2>ホームページ作成サービス「クローバPAGE」を使ってみる</h2>
+</div>
+</section>
 
-### STEP1 会員登録
-![](images/02-registration.png)
+### それでは、「クローバPAGE」を使ってホームページを作成していきましょう。
 
-### ページを作成していく
-![](images/03-create-page.png)
+<dl>
+<div class="appear">
+<dt>STEP1 会員登録</dt>
+<dd>
+まずは、会員登録からです。
 
-### STEP2 テンプレートを選ぶ
-![](images/04-select-template.png)
+<img src="images/02-registration.png">
 
-![](images/05-select-template.png)
+登録が完了すると、次の画面が表示されるので、「ページを作成する」のリンクをクリックしてください。
+<img src="images/03-create-page.png">
+</dd>
+</div>
 
-### STEP3 カバー画像の設定
-![](images/06-cover-image.png)
-![](images/07-cover-image.png)
 
-### STEP4 トップページはパーツをドラッグ＆ドロップで貼り付けていくだけ
-![](images/08-adding-parts.png)
+<div>
+<dt>STEP2 テンプレートを選ぶ</dt>
+<dd>
+<img src="images/04-select-template.png">
 
-### STEP5 問い合わせフォームの設定
-![](images/09-form-setting.png)
+<img src="images/05-select-template.png">
+</dd>
+</div>
 
-### STEP6 公開
-![](images/10-publish-setting.png)
+<div>
+<dt>STEP3 カバー画像の設定</dt>
+<dd>
+<img src="images/06-cover-image.png">
+<img src="images/07-cover-image.png">
+</dd>
+</div>
+
+<div>
+<dt>STEP4 トップページはパーツをドラッグ＆ドロップで貼り付けていくだけ</dt>
+<dd>
+<img src="images/08-adding-parts.png">
+</dd>
+</div>
+
+<div>
+<dt>STEP5 問い合わせフォームの設定</dt>
+<dd>
+<img src="images/09-form-setting.png">
+</dd>
+</div>
+
+<div>
+<dt> STEP6 公開</dt>
+<dd>
+<img src="images/10-publish-setting.png">
+</dd>
+</div>
+</dl>
 
 ## 次のステップは？
 

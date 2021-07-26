@@ -38,7 +38,7 @@ h1 {
   text-align: center; }
 
 h2 {
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 2rem; }
 
 p {
@@ -108,8 +108,7 @@ blockquote {
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 20.25px;
-  letter-spacing: -1px;
-  font-style: italic; }
+  letter-spacing: -1px; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -165,6 +164,11 @@ pre {
 .orange {
   color: #f66a0a; }
 
+.big {
+  font-size: 32px;
+  font-weight: 700;
+  color: #f66a0a; }
+
 .grey {
   color: #828282; }
 
@@ -196,6 +200,10 @@ table {
     border-bottom-color: #c9c9c9; }
   table td {
     border: 1px solid #e8e8e8; }
+
+ul.check-mark {
+  list-style-position: inside;
+  list-style-image: url(../images/check-mark.png); }
 
 /**
  * Site header
@@ -349,10 +357,79 @@ table {
   color: #fff;
   width: 100vw;
   margin-left: calc(50% - 50vw);
-  padding-top: 200px;
-  padding-bottom: 200px;
-  background: url(../images/head-banner.jpg) center/cover; }
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: url(../images/head-banner.jpg) center/cover;
+  display: flex;
+  gap: 30px;
+  justify-content: center; }
+  .page-heading img {
+    width: 200px; }
+  .page-heading h1 {
+    padding-top: 50px; }
 
+#lets-try {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: url(../images/head-banner.jpg) center/cover;
+  margin-top: 100px;
+  margin-bottom: 100px; }
+  #lets-try .wrapper {
+    display: flex;
+    gap: 30px;
+    justify-content: center; }
+    #lets-try .wrapper img {
+      width: 300px; }
+    #lets-try .wrapper h2 {
+      color: #fff; }
+
+details {
+  margin-bottom: 20px; }
+
+summary {
+  font-weight: 700;
+  font-size: 1.2em; }
+
+dl {
+  margin: 0; }
+
+dl > div {
+  margin-bottom: 8px; }
+
+dt {
+  padding: 8px;
+  cursor: pointer;
+  user-select: none;
+  position: relative; }
+
+dt::after {
+  content: '+';
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  transition: transform .3s; }
+
+dl > div.appear dt::after {
+  transform: rotate(45deg); }
+
+dd {
+  padding: 8px;
+  margin: 0;
+  display: none; }
+
+dl > div.appear dd {
+  display: block;
+  animation: .3s fadeIn; }
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px); }
+  100% {
+    opacity: 1;
+    transform: 0; } }
 .post-list-heading {
   font-size: 31.5px; }
 
