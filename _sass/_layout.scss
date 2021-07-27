@@ -236,7 +236,7 @@ ul.check-mark {
   margin-left: calc(50% - 50vw);
   padding-top: 100px;
   padding-bottom: 100px;
-  background: url(../images/head-banner.jpg) center / cover;
+  background: url(../images/night-sky.jpg) center / cover;
   margin-top: 100px;
   margin-bottom: 100px;
   .wrapper {
@@ -245,6 +245,7 @@ ul.check-mark {
     justify-content: center;
     img { width: 300px; }
     h2 {
+      font-size: 36px;
       color: #fff;
     }
   }

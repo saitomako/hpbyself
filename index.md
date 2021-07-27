@@ -58,7 +58,7 @@ layout: home
 <section id="lets-try">
 <div class="wrapper">
 <img src="images/01-qloba.png">
-<h2>ホームページ作成サービス「クローバPAGE」を使ってみる</h2>
+<h2>ホームページ作成サービス<br>「クローバPAGE」を使ってみる</h2>
 </div>
 </section>
 
