@@ -53,7 +53,7 @@ layout: home
 「ホームページ作成サービス」はWix、Jimdo、Weebly、その他にもたくさんあります。それぞれ
 特徴がありますが、ブラウザから操作して簡単にホームページを作成できるという点において、大きな違いはありません。
 
-ここでは、国産の<a href="https://www.qloba.com/" target="_blan">「クローバPAGE」</a>というサービスを
+今回は、国産の<a href="https://www.qloba.com/" target="_blan">「クローバPAGE」</a>というサービスを
 使っていきたいと思います。
 
 <section id="lets-try">
@@ -88,7 +88,10 @@ layout: home
 <div class="toggle_contents">
 <p class="toggle_title">STEP2 テンプレートを選ぶ</p>
 <p class="toggle_txt">
+まず最初にやることは、テンプレートを選ぶことです。<br>
+テンプレートとは、ホームページの典型的な雛形のことで、ホームページの種類にあったデザインがあらかじめ用意されています。あまり深く考えず、それっぽいのを選んでみてください。
 <img src="images/04-select-template.png">
+今回はカテゴリー「お店」の中から「カフェ」のテンプレートを選んでみました。
 <img src="images/05-select-template.png">
 </p>
 </div>
@@ -96,21 +99,32 @@ layout: home
 <div class="toggle_contents">
 <p class="toggle_title">STEP3 カバー画像の設定</p>
 <p class="toggle_txt">
+次にサイトにふさわしいカバー画像を指定します。<br>
+カバー画像は、複数枚選択することができ、自分のお気に入りの写真をアップロードすることもできます。
 <img src="images/06-cover-image.png">
+カバー画像の上に表示される文字を指定します。
+「いつものコーヒーで至高のひとときを」と入力しました。<br>
+深く考えず、それっぽい文言を入力してみてください。
 <img src="images/07-cover-image.png">
+後からいくらでも変更かのうですので、気分でチャッチャと指定してみましょう。
 </p>
 </div>
 
 <div class="toggle_contents">
 <p class="toggle_title">STEP4 トップページはパーツをドラッグ＆ドロップで貼り付けていくだけけ</p>
 <p class="toggle_txt">
+この「クローバPAGE」ではトップページだけの縦長のホームページを作成できます。
+左側のパーツから、ドラッグ＆ドロップでセクションに貼り付けていきます。
 <img src="images/08-adding-parts.png">
+画像や、動画、たくさんの種類のパーツが指定できますので、いろいろ試してみてください。
 </p>
 </div>
 
 <div class="toggle_contents">
 <p class="toggle_title">STEP5 問い合わせフォームの設定</p>
 <p class="toggle_txt">
+訪問者からの問い合わせを受けるためのフォームを指定します。<br>
+フォーム送信後に「ウェルカムメッセージ」を表示させることもできます。
 <img src="images/09-form-setting.png">
 </p>
 </div>
@@ -118,11 +132,23 @@ layout: home
 <div class="toggle_contents">
 <p class="toggle_title">STEP6 公開</p>
 <p class="toggle_txt">
+最後に「公開」の設定です。<br>
+URLの形式は「XXXXX.qloba.com｣となってます。XXXXXの部分を自由に指定できます。
 <img src="images/10-publish-setting.png">
 </p>
 </div>
 
 </div>
+
+いかがでしたでしょうか？
+ものすごく簡単でしたでしょ？
+
+再編集で変更可能ですので、いろいろ試してみてください。
+
+また、月々の費用がかかりますが、アップグレードすると、決済など、便利な機能が使えます。
+
+「クローバPAGE」では、ファンクラブなどの会員サイトの機能に特化しているようです。<br>
+気に入ったら使ってみるのも良いでしょう。
 
 ## 次のステップは？
 
