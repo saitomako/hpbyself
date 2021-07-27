@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-    {%- include head.html -%}
-  </head>
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
 <script>$(function(){
 	$('.toggle_title').click(function(){
 		var clicks = $(this).data('clicks');
@@ -28,6 +11,3 @@
 		$(this).data("clicks", !clicks);
 	});
 });</script>
-
-  </body>
-</html>

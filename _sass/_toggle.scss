@@ -1,0 +1,47 @@
+.toggle_section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.toggle_contents {
+  background: #d6d6d6;
+  border-radius: 5px;
+  margin: 0 0 20px 0;
+}
+.toggle_title {
+  font-weight: bold;
+  line-height: 42px;
+  margin: 0 !important;
+  padding: 0 0 0 10px;
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+  transition: -0.3s;
+}
+.toggle_title:hover {
+  color: #fd7e00;
+}
+.toggle_title:after {
+  content: "";
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  background: url(../images/arrow.png) no-repeat right top;
+  position: absolute;
+  top: 50%;
+  right: 7px;
+  transform: translateY(-50%);
+  transition: 0.2s;
+}
+.toggle_title.selected:after {
+  transform: translateY(-50%) rotate(180deg);
+  transition: 0.2s;
+}
+.toggle_txt {
+  display: none;
+  margin: 0;
+  padding: 10px;
+  background: #fff;
+  border-left: 1px solid #d6d6d6;
+  border-right: 1px solid #d6d6d6;
+  border-bottom: 1px solid #d6d6d6;
+}

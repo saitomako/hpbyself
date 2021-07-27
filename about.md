@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: このサイトについて
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+このサイトは、動画でプログラミングを学習できるサービス[「ドットインストール」](https://dotinstall.com/)の企画『はじめてのオリサイ制作コミュニティ』の課題として作成したものです。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+このサイトの作成者は、５年前に会社を定年退職し、趣味でプログラミングを楽しんでいる者です。
+還暦を過ぎて、年金生活に入っていますが、こんな形でも、プログラミングにかかわることで、
+少しはボケ防止になるのではないかと考える次第です。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

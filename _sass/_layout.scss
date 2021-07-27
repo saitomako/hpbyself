@@ -247,6 +247,16 @@ ul.check-mark {
   }
 }
 
+.box {
+  min-width: 800px;
+  margin: 0 auto;
+  padding: 100px 0;
+  border: 1px solid #ccc;
+  background: #efefef;
+  font-size: 30px;
+  text-align: center;
+}
+
 details {
   margin-bottom: 20px;
 }

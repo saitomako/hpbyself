@@ -22,7 +22,7 @@ layout: home
 
 <span class="big">&gt; ホームページを自分で作ってしまう<span>
 
-**そんなこととんでもない！** と仰っしゃるかもしれません。
+**そんなこととんでもない！自分にできるとはとても思えない** と仰っしゃるかもしれません。
 
 
 でも実は、
@@ -55,61 +55,60 @@ layout: home
 </div>
 </section>
 
-### それでは、「クローバPAGE」を使ってホームページを作成していきましょう。
-※ 各STEPタイトルをクリックすると、その詳細が開きます。
+### それでは、さっそく「クローバPAGE」を使ってホームページを作成していきましょう。
 
-<dl>
-<div>
-<dt>STEP1 会員登録</dt>
-<dd>
+<div class="toggle_section">
+※ 各STEPタイトルをクリックすると、詳細が開きます。
+<div class="toggle_contents">
+<p class="toggle_title">STEP1 会員登録</p>
+<p class="toggle_txt">
 まずは、会員登録からです。
 
 <img src="images/02-registration.png">
 
 登録が完了すると、次の画面が表示されるので、「ページを作成する」のリンクをクリックしてください。
 <img src="images/03-create-page.png">
-</dd>
+</p>
 </div>
 
-
-<div>
-<dt>STEP2 テンプレートを選ぶ</dt>
-<dd>
+<div class="toggle_contents">
+<p class="toggle_title">STEP2 テンプレートを選ぶ</p>
+<p class="toggle_txt">
 <img src="images/04-select-template.png">
-
 <img src="images/05-select-template.png">
-</dd>
+</p>
 </div>
 
-<div>
-<dt>STEP3 カバー画像の設定</dt>
-<dd>
+<div class="toggle_contents">
+<p class="toggle_title">STEP3 カバー画像の設定</p>
+<p class="toggle_txt">
 <img src="images/06-cover-image.png">
 <img src="images/07-cover-image.png">
-</dd>
+</p>
 </div>
 
-<div>
-<dt>STEP4 トップページはパーツをドラッグ＆ドロップで貼り付けていくだけ</dt>
-<dd>
+<div class="toggle_contents">
+<p class="toggle_title">STEP4 トップページはパーツをドラッグ＆ドロップで貼り付けていくだけけ</p>
+<p class="toggle_txt">
 <img src="images/08-adding-parts.png">
-</dd>
+</p>
 </div>
 
-<div>
-<dt>STEP5 問い合わせフォームの設定</dt>
-<dd>
+<div class="toggle_contents">
+<p class="toggle_title">STEP5 問い合わせフォームの設定</p>
+<p class="toggle_txt">
 <img src="images/09-form-setting.png">
-</dd>
+</p>
 </div>
 
-<div>
-<dt> STEP6 公開</dt>
-<dd>
+<div class="toggle_contents">
+<p class="toggle_title">STEP6 公開</p>
+<p class="toggle_txt">
 <img src="images/10-publish-setting.png">
-</dd>
+</p>
 </div>
-</dl>
+
+</div>
 
 ## 次のステップは？
 

@@ -53,4 +53,5 @@ $on-large:         $on-laptop !default;
 // Import partials.
 @import "base";
 @import "layout";
+@import "toggle";
 @import "syntax-highlighting";
