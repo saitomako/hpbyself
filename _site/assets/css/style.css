@@ -226,7 +226,10 @@ ul.check-mark {
     color: #333; }
 
 #myprof {
-  border-radius: 50%; }
+  border-radius: 50%;
+  max-width: 100%;
+  padding: 0;
+  float: none; }
 
 .site-nav {
   position: absolute;
