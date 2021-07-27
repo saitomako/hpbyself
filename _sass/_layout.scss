@@ -249,7 +249,12 @@ ul.check-mark {
     display: flex;
     gap: 30px;
     justify-content: center;
-    img { width: 300px; }
+    img {
+      width: 300px;
+      filter: drop-shadow(5px 5px 5px #666);
+      /*box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);*/
+      /*box-shadow: 15px 10px 0 0 rbg(0, 0, 0);*/
+    }
     h2 {
       font-size: 36px;
       color: #fff;

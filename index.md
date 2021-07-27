@@ -70,7 +70,7 @@ layout: home
 びっくりするぐらい簡単ですので、気軽な気持ちでやってみましょう。
 
 <div class="toggle_section">
-※ 各STEPタイトルをクリックすると、詳細が開きます。
+※ 各STEPのタイトルをクリックすると、詳細が開きます。
 <div class="toggle_contents">
 <p class="toggle_title">STEP1 会員登録</p>
 <p class="toggle_txt">
