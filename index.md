@@ -71,6 +71,7 @@ layout: home
 <div class="toggle_contents">
 <p class="toggle_title">STEP1 会員登録</p>
 <p class="toggle_txt">
+
 まずは、会員登録からです。
 
 <a href="https://www.qloba.com/">https://www.qloba.com/</a>から、クローバPAGEのサイトにアクセスしていください。
