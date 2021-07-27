@@ -49,6 +49,12 @@ layout: home
 ### 失敗しないマインドセット
 -->
 
+「ホームページ作成サービス」はWix、Jimdo、Weebly、その他たくさんありますが、それぞれ
+特徴はありますが、簡単にホームページを作成できるという点において、大きな違いはありません。
+
+ここでは、国産の<a href="https://www.qloba.com/" target="_blan">「クローバPAGE」</a>というサービスを
+使っていきたいと思います。
+
 <section id="lets-try">
 <div class="wrapper">
 <img src="images/01-qloba.png">
