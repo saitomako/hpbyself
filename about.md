@@ -2,7 +2,10 @@
 layout: page
 title: このサイトについて
 permalink: /about/
+class: about
 ---
+
+![](../images/oldman_75.png)
 
 このサイトは、動画でプログラミングを学習できるサービス[「ドットインストール」](https://dotinstall.com/)の企画『はじめてのオリサイ制作コミュニティ』の課題として作成したものです。
 

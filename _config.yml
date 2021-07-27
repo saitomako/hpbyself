@@ -2,7 +2,7 @@ title: ホームページは自分で作ろう！
 author: GitHub User
 email: saitomako@gmail.com
 description: > # this means to ignore newlines untile "twitter_username:"
-  このサイトでは、専門知識のない方でも、比較的簡単にホームページを作成するる方法を、 紹介しています。
+  このサイトでは、専門知識のない方でも、簡単にホームページを作成する方法を、 紹介しています。
 
 show_excerpts: true # set to true to show excerpts on the homepage
 excerpt_separator: <!--more-->

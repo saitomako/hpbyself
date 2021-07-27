@@ -385,6 +385,11 @@ ul.check-mark {
     #lets-try .wrapper h2 {
       color: #fff; }
 
+.about img {
+  max-width: 200px;
+  float: left;
+  padding-right: 20px; }
+
 .box {
   min-width: 800px;
   margin: 0 auto;
