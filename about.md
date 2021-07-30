@@ -1,6 +1,7 @@
 ---
 layout: page
-title: このサイトについて
+title: ABOUT
+subject: このサイトについて
 permalink: /about/
 class: about
 ---

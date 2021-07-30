@@ -1,6 +1,7 @@
 ---
 layout: page
-title: クローバPAGEリファレンス
+title: REFFERENCE
+subject: クローバPAGEリファレンス
 permalink: /refference/
 ---
 
