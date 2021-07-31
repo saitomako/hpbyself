@@ -24,6 +24,10 @@ ul.check-mark {
   margin-bottom: 0;
   float: left;
 
+  &:hover { 
+    text-decoration: none !important; 
+  }
+
   @include media-query($on-palm) {
     padding-right: 45px;
   }
