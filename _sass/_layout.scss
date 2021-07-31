@@ -51,6 +51,11 @@ input, textarea {
 
 .site-title {
   @include relative-font-size(1.2);
+  background-image: url(../images/avatar.png);
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 38px;
   font-weight: 700;
 //  letter-spacing: -1px;
   margin-bottom: 0;
