@@ -1,6 +1,8 @@
 title: ホームページは自分で作ろう！
 author: GitHub User
 email: saitomako@gmail.com
+baseurl: "/hpbyself"
+url: "https://saitomako.github.io/"
 description: > # this means to ignore newlines untile "twitter_username:"
   このサイトでは、専門知識のない方が、簡単にホームページを作成する方法を、 紹介しています。
 
