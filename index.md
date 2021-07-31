@@ -151,7 +151,19 @@ URLの形式は「XXXXX.qloba.com｣となってます。XXXXXの部分を自由
 「クローバPAGE」では、ファンクラブなどの会員の管理機能に特化しているようです。<br>
 気に入ったら使ってみるのも良いでしょう。
 
+<!--
 ## 次のステップは？
+-->
 
+<hr>
 
+## CONTACT
 
+<form action="https://formspree.io/f/xdoywgva" method="POST">
+ご連絡は以下のフォームよりお願いします。
+  <input type="text" placeholder="Name" name="name" requied>
+  <input type="email" placeholder="Email" name="_replyto" required>
+  <textarea placeholder="Message" name="message" required></textarea>
+
+  <input type="submit" value="Send">
+</form>

@@ -3,6 +3,37 @@ ul.check-mark {
   list-style-image: url(../images/check-mark.png);
 }
 
+
+/** Form **/
+$green: #84ad47;
+$red:   #ad4747;
+$blue:  #4784ad;
+
+form {
+  width: 50%;
+  margin: 20px auto;
+  min-width: 9rem;
+}
+
+input, textarea {
+  float: left;
+  width: 100%;
+  max-width: 100%;
+  border: none;
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  background: darken(#f9f9f9, 10%);
+  color: darken(#f9f9f9, 50%);
+
+  &[type=submit] {
+    background: $green;
+    color: #fff;
+    width: auto;
+    float: right;
+  }
+}
+
 /**
  * Site header
  */
