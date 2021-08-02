@@ -1,8 +1,8 @@
 ---
 layout: page
-title: REFFERENCE
+title: REFERENCE
 subject: クローバPAGEリファレンス
-permalink: /refference/
+permalink: /reference/
 ---
 
 <div class="box">
